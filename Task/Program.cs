@@ -20,3 +20,5 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+ArrayConditionCheck(array, array1);
+PrintArray(array1);
